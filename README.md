@@ -1,2 +1,2 @@
 # circuitbreaker
-circuit breaker
+circuit breaker usage demo
